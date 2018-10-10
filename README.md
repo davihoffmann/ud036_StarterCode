@@ -9,8 +9,7 @@
 ## Instalação
 * Faça download do repositório ou faça a clonagem do projeto utilizando o comando:
 * `git clone https://github.com/davihoffmann/ud036_StarterCode.git`
-
-Abra o diretório onde você fez o download do projeto e execute o arquivo entertainment_center.py
+* Abra o diretório onde você fez o download do projeto e execute o arquivo entertainment_center.py
 
 ## Adicionar ou Alterasr os daodos dos filmes
 * Abra o arquivo entertainment_center.py
